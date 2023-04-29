@@ -3,7 +3,7 @@
 ## ABOUT ME 👨‍🎓
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** .👨‍💻
-- 🌱 App Developer at Student's Web Committee, IIT Guwahati
+- 🌱 App Lead at Student's Web Committee, IIT Guwahati
 - 📫 How to reach me 😄 : **[Facebook -  @Hareesh Nandigrama](https://www.facebook.com/hareesh.nandigrama/) , [Instagram - @honeyisforever](https://www.instagram.com/honeyisforever/) , [Linkedin - @Hareesh Nandigrama](https://www.linkedin.com/in/hareesh-nandigrama-41714620b/)**
 - ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places .<br /> Love playing games
                 </pre>
